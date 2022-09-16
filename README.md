@@ -10,3 +10,6 @@ gcc ssh-import-id-gh.c -o ssh-import-id-gh.o -lcurl
 ```tcsh
 clang ssh-import-id-gh.c -L/usr/local/lib -lcurl -I/usr/local/include
 ```
+## Contributions
+
+Any PR(s) are welcomed.
